@@ -3,6 +3,7 @@ while True:
     i += 1
     if i == 11:
         print("Done")
+        print("Thank you")
         break
     else:
         print(f"This is the {i} Irataion")
